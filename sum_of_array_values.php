@@ -1,0 +1,11 @@
+<?php
+
+    $arrayItems = array(1,2,5,10,255,3);
+    $sum = 0;
+    for ($i = 0; $i < count($arrayItems); $i++)  {
+        // $sum = $sum + $arrayItems[$i];
+        $sum += $arrayItems[$i];
+    }
+    echo $sum;
+
+  ?>
