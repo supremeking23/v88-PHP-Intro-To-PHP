@@ -8,7 +8,7 @@
 
     <style>
         body * {
-            outline : 1px dashed red;
+            /* outline : 1px dashed red; */
             font-family: Arial;
         }
        

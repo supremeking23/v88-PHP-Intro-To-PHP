@@ -1,15 +1,15 @@
 <?php 
 
-    function throw_coin(){
-       $result = array("heads" => 0, "tails" => 0);
-       $coin = rand(0,1);
-       if($coin == 0){
-        $result["heads"] =+ 1;
-       }else{
-        $result["tails"] =+ 1;
-       }
-    //    use this one later
-    }
+    // function throw_coin(){
+    //    $result = array("heads" => 0, "tails" => 0);
+    //    $coin = rand(0,1);
+    //    if($coin == 0){
+    //     $result["heads"] =+ 1;
+    //    }else{
+    //     $result["tails"] =+ 1;
+    //    }
+    // //    use this one later
+    // }
 
     echo "<h1>Starting the Program</h1>";
     // $heads = 0;
